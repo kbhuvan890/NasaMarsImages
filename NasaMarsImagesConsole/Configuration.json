@@ -1,0 +1,10 @@
+{
+  "LogDirectoryPath": "C:\\Mars\\Logs\\",
+  "InputDatesFilePath": "C:\\Mars\\Input\\dates.txt",
+  "OutputImageDirectoryPath": "C:\\Mars\\MarsOutputImage\\",
+  "MarsImageAPIConfig": {
+    "AccessKey": "NC2AZKxmFDppkoHOy3dKg3Yzd8NHsFtT5RzuO7wc",
+    "BaseUri": "https://api.nasa.gov/",
+    "ImageEndpoint": "mars-photos/api/v1/rovers/curiosity/photos"
+  }
+}

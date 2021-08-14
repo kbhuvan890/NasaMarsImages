@@ -1,0 +1,9 @@
+C:\Users\Bhuvan\source\repos\NasaMarsImages\NasaMarsImageServices\bin\Debug\netcoreapp3.1\NasaMarsImageServices.deps.json
+C:\Users\Bhuvan\source\repos\NasaMarsImages\NasaMarsImageServices\bin\Debug\netcoreapp3.1\NasaMarsImageServices.dll
+C:\Users\Bhuvan\source\repos\NasaMarsImages\NasaMarsImageServices\bin\Debug\netcoreapp3.1\NasaMarsImageServices.pdb
+C:\Users\Bhuvan\source\repos\NasaMarsImages\NasaMarsImageServices\obj\Debug\netcoreapp3.1\NasaMarsImageServices.csproj.AssemblyReference.cache
+C:\Users\Bhuvan\source\repos\NasaMarsImages\NasaMarsImageServices\obj\Debug\netcoreapp3.1\NasaMarsImageServices.AssemblyInfoInputs.cache
+C:\Users\Bhuvan\source\repos\NasaMarsImages\NasaMarsImageServices\obj\Debug\netcoreapp3.1\NasaMarsImageServices.AssemblyInfo.cs
+C:\Users\Bhuvan\source\repos\NasaMarsImages\NasaMarsImageServices\obj\Debug\netcoreapp3.1\NasaMarsImageServices.csproj.CoreCompileInputs.cache
+C:\Users\Bhuvan\source\repos\NasaMarsImages\NasaMarsImageServices\obj\Debug\netcoreapp3.1\NasaMarsImageServices.dll
+C:\Users\Bhuvan\source\repos\NasaMarsImages\NasaMarsImageServices\obj\Debug\netcoreapp3.1\NasaMarsImageServices.pdb
