@@ -10,7 +10,7 @@ The NaraMarsImages Solution Contains three projects
 
  The console project will read the configuration file  and download and store the images from the API . Also logs the information returned from the application.
  
- **Configuration file**  - you need to set this before running the console job.
+ **Configuration.json file**  - you need to set this before running the console job.
  
  **Please set the LogDirectoryPath, InputDatesFilePath and OutputImageDirectoryPath before running the console job**.
  
