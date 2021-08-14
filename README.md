@@ -11,6 +11,8 @@ The NaraMarsImages Solution Contains three projects
  The console project will read the configuration file  and download and store the images from the API . Also logs the information returned from the application.
  
  **Configuration file**  - you need to set this before running the console job
+ 
+ ```json
   {
   "LogDirectoryPath": "C:\\Mars\\Logs\\",
   "InputDatesFilePath": "C:\\Mars\\Input\\dates.txt",
@@ -19,8 +21,10 @@ The NaraMarsImages Solution Contains three projects
     "AccessKey": "NC2AZKxmFDppkoHOy3dKg3Yzd8NHsFtT5RzuO7wc",
     "BaseUri": "https://api.nasa.gov/",
     "ImageEndpoint": "mars-photos/api/v1/rovers/curiosity/photos"
-	  }
+	
+	}
 } 
+```
 
 # NasaMarsImageServices
 
