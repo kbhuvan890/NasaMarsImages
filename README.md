@@ -32,5 +32,5 @@ The service library contains the  business logic to access the NASA API and  to 
 
 # NasaMarsImageUnitTest
 
-The roject contains the unit test features for the  NasaMarsImagesServices
+This project contains the unit test features for the  NasaMarsImagesServices
 
