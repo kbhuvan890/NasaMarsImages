@@ -12,7 +12,7 @@ The NaraMarsImages Solution Contains three projects
  
  **Configuration file**  - you need to set this before running the console job.
  
- **Please sett he LogDirectoryPath, InputDatesFilePath and OutputImageDirectoryPath before running the console job**.
+ **Please set the LogDirectoryPath, InputDatesFilePath and OutputImageDirectoryPath before running the console job**.
  
  ```json
   {
