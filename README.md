@@ -5,6 +5,8 @@ The NaraMarsImages Solution Contains three projects
 **#NasaMarsImagesConsole**  
 **#NasaMarsImageServices**  
 **#NasaMarsImageUnitTesting**  
+**#NasaMarsImageWeb**  
+
 
 # NasaMarsImagesConsole
 
@@ -34,5 +36,8 @@ The service library contains the  business logic to access the NASA API and  to 
 
 # NasaMarsImageUnitTest
 
-This project contains the unit test features for the  NasaMarsImagesServices
+This project contains the unit test features for the  NasaMarsImagesServices.
 
+# NasaMarsImageWeb
+
+This web project, will let users view the images by date.
